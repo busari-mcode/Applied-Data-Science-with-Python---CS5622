@@ -1,4 +1,10 @@
+#******************* Learning Phase 2 ***************************
+# famous_person = "Albert Einstein"
 
+# splitName = famous_person.split()
+
+# print(splitName[0])
+# print(splitName[1])
 
 #******************* Learning Phase 1 ***************************
 # my_dict = {'key1':123, 'key2':[12,23,33], 'key3':['item0','item1','item2']}
