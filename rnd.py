@@ -1,4 +1,11 @@
 #******************* Learning Phase 2 ***************************
+# s5 = 'Objects in Python can have built-in methods.'
+# s6 = s5.replace('Objects in Python can have built-in methods.', 'Objects in Python can work with built-in methods.')
+
+# print(s5)
+# print(s6)
+
+#****************
 # famous_person = "Albert Einstein"
 
 # splitName = famous_person.split()
