@@ -1,4 +1,19 @@
 #******************* Learning Phase 2 ***************************
+#**************
+# word = input("Enter one word: ")
+
+# if word == 'hi':
+#     print('Hi to you too!')
+# elif word == 'hello':
+#     print('Hello hello')
+# elif word == 'howdy':
+#     pirnt('Howdyyy!')
+# elif word == 'hey':
+#     print('Hey hey hey!')
+# else:
+#     print("I don't know what this word means")
+
+
 # list6 = [3, 66, 70, 25, 43, 29, 100, 50, 88, 28, 96]
 
 # total = 0
